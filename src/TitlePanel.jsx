@@ -13,11 +13,11 @@ export default function TitlePanel() {
             style={{width: '400px'}}
           ></img>
         </Box>
-        <Typography variant='h2'>
-          Title
+        <Typography variant='h2' fontFamily='美咲ゴシック'>
+          まるこんふぃぐ
         </Typography>
-        <Typography variant='h5'>
-          introductions
+        <Typography variant='h5' fontFamily='美咲ゴシック'>
+          by HIGEEKY Lab.
         </Typography>
       </Grid>
     </>
