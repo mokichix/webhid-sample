@@ -14,7 +14,7 @@ function App() {
           justifyContent="center" alignItems="center"
         >
           <Grid item><TitlePanel /></Grid>
-          <Grid item height='50px'></Grid>
+          <Grid item height='30px'></Grid>
           <Grid item><MainPanel /></Grid>
         </Grid>
       </Box>

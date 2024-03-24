@@ -46,7 +46,7 @@ export default function ContollerBodyShadow() {
         position='absolute' top='0px' left='0px'
         height='100%' width='100%'
         borderRadius='50%' backgroundColor={bodyColor}
-        color={textColor} fontSize='40px'
+        color={textColor} fontSize='25px'
         display='flex' justifyContent='center' alignItems='center'
         sx={{userSelect: 'none', cursor: 'pointer'}}
         onClick={handleClick}

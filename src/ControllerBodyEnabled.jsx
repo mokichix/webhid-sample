@@ -15,12 +15,14 @@ export default function ContollerBodyEnabled() {
           <Box
             width='35%' height='55%'
             backgroundColor='#aaa'
+            borderRadius='40%'
             sx={{clipPath: 'polygon(0% 0%, 100% 0%, 80% 100%, 20% 100%)'}}
           ></Box>
           <Grid item xs></Grid>
           <Box
             width='35%' height='55%'
             backgroundColor='#aaa'
+            borderRadius='40%'
             sx={{clipPath: 'polygon(0% 0%, 100% 0%, 80% 100%, 20% 100%)'}}
           ></Box>
         </Grid>

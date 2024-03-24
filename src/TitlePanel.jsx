@@ -1,7 +1,7 @@
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import icon from './assets/geekyfab-icon.png'
+import icon from './assets/logo.png'
 
 export default function TitlePanel() {
   return (
@@ -13,10 +13,10 @@ export default function TitlePanel() {
             style={{width: '400px'}}
           ></img>
         </Box>
-        <Typography variant='h2' fontFamily='美咲ゴシック'>
+        <Typography variant='h4' fontFamily='美咲ゴシック'>
           まるこんふぃぐ
         </Typography>
-        <Typography variant='h5' fontFamily='美咲ゴシック'>
+        <Typography variant='h7' fontFamily='美咲ゴシック'>
           by HIGEEKY Lab.
         </Typography>
       </Grid>
