@@ -10,14 +10,14 @@ export default function TitlePanel() {
         <Box>
           <img
             src={icon}
-            style={{width: '400px'}}
+            style={{width: '300px'}}
           ></img>
         </Box>
         <Typography variant='h4' fontFamily='美咲ゴシック'>
           まるこんふぃぐ
         </Typography>
         <Typography variant='h7' fontFamily='美咲ゴシック'>
-          by HIGEEKY Lab.
+          SEGA MULTI CONTROLLER CONFIG TOOL
         </Typography>
       </Grid>
     </>
