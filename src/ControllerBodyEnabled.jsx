@@ -103,12 +103,12 @@ export default function ContollerBodyEnabled() {
           className='maruconToggle'
           position='absolute' top='80%' left='43%'
           height='6%' width='14%'
-          borderRadius='20%' backgroundColor={HAI}
+          borderRadius='45%' backgroundColor={HAI}
         >
           <Box
-            position='absolute' top='5%' left='5%'
-            height='90%' width='60%'
-            borderRadius='30%' backgroundColor={BODY}
+            position='absolute' top='10%' left='5%'
+            height='80%' width='60%'
+            borderRadius='50%' backgroundColor={BODY}
           >
           </Box>
         </Box>
